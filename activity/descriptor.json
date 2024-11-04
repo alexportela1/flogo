@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "title": "Sample Activity",
   "description": "Sample Activity",
-  "homepage": "https://github.com/project-flogo/tree/master/examples/activity",
+  "homepage": "https://github.com/alexportela1/flogo/tree/main/activity",
   "settings": [
     {
       "name": "aSetting",
