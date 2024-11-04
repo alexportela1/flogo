@@ -1,10 +1,11 @@
 {
   "name": "sample-activity",
   "type": "flogo:activity",
+  "ref": "github.com/alexportela1/flogo/activity",
   "version": "0.0.1",
   "title": "Sample Activity",
   "description": "Sample Activity",
-  "homepage": "https://github.com/alexportela1/flogo/activity",
+  "homepage": "https://github.com/alexportela1/flogo/tree/master/activity",
   "settings": [
     {
       "name": "aSetting",
