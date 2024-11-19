@@ -1,0 +1,27 @@
+{
+	"name": "validatejson",
+	"type": "flogo:activity",
+	"ref": "github.com/alexportela1/flogo/activity/validatejson",
+	"version": "0.0.1",
+	"title": "Validate JSON",
+	"description": "Validates a JSON string with the JSON schema",
+	"author": "Steinweg",
+	"input": [
+		{
+			"name": "jsonSchema",
+			"type": "string",
+            "required": true
+		},
+		{
+			"name": "jsonString",
+			"type": "string",
+            "required": true
+		}
+	],
+	"output": [
+		{
+			"name": "success",
+			"type": "boolean"
+		}
+	]
+}
