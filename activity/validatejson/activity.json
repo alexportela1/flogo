@@ -6,6 +6,7 @@
 	"title": "Validate JSON",
 	"description": "Validates a JSON string with the JSON schema",
 	"author": "Steinweg",
+    "homepage": "https://github.com/alexportela1/flogo/tree/main/activity/validatejson",
 	"input": [
 		{
 			"name": "jsonSchema",
